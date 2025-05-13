@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-login
+streamlit
+opencv-python
+mediapipe
+pyttsx3
+SpeechRecognition
+pyaudio
+googletrans==4.0.0rc1
+numpy
+pillow
